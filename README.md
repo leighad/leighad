@@ -7,6 +7,7 @@
 > - 🌱 I’m currently learning Python and responsible AI
 > - 🔭 And currently working on leveling up in my career
 > - ⚡ Fun fact: I can break an apple in half with my bare hands!
+> - 🤖 Super excited for GitHub Universe '25 and hope to see you there
 
 #### 📫 How to reach me: CDVERSIONTWO at gmail
 

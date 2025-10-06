@@ -11,7 +11,7 @@
 > - ⚡ Fun fact: I can break an apple in half with my bare hands!
 > - 🤖 Super excited for GitHub Universe '25 and hope to see you there
 
-#### 📫 How to reach me: CDVERSIONTWO at gmail
+#### 📫 How to reach me: CDVERSIONTWO@gmail.com
 
 <!--
 **leighad/leighad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

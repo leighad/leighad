@@ -3,6 +3,8 @@
 ### 🚧 This page is under construction 🚧
 #### Thank you for your patience while I work my magic 🪄 💫
 
+#### Why not have a laugh while you wait? https://leighad.github.io/quick-laughs/
+
 > - 💟 My first love is Ruby 💎
 > - 🌱 I’m currently learning Python and responsible AI
 > - 🔭 And currently working on leveling up in my career

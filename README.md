@@ -8,7 +8,7 @@
 > - 🌱 I’m currently learning Python and agentic AI
 > - ⭐ I've been working as an Integration Engineer for the past 4 years
 > - 🔭 Always looking for my next adventure
-> - ⚡ Fun fact: I can break an apple in half with my bare hands!
+> - ⚡ Fun fact: I can break an apple in half with my bare hands! 🍎
 
 #### 📫 How to reach me: CDVERSIONTWO@gmail.com
 

@@ -1,15 +1,14 @@
 ## Hi there! It's me, Leigha D 👋
 
-### 🚧 This page is under construction 🚧
-#### Thank you for your patience while I work my magic 🪄 💫
+🤖 I am super excited for GitHub Universe '25 and hope to see you there! 🪄 💫
 
 #### Why not have a laugh while you wait? https://leighad.github.io/quick-laughs/
 
 > - 💟 My first love is Ruby 💎
-> - 🌱 I’m currently learning Python and responsible AI
-> - 🔭 And currently working on leveling up in my career
+> - 🌱 I’m currently learning Python and agentic AI
+> - ⭐ I've been working as an Integration Engineer for the past 4 years
+> - 🔭 And now looking for my next adventure
 > - ⚡ Fun fact: I can break an apple in half with my bare hands!
-> - 🤖 Super excited for GitHub Universe '25 and hope to see you there
 
 #### 📫 How to reach me: CDVERSIONTWO@gmail.com
 
